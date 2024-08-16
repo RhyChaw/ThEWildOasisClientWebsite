@@ -1,0 +1,54 @@
+{
+  "node": {
+    "20d772389a7f5f2e79190e92727b174135ee9bdc": {
+      "workers": {
+        "app/login/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Frhychaw%2Fprojects%2Fultimate-react-course%2F21-the-wild-oasis-website%2Ffinal-6-after-server-actions%2Fapp%2F_lib%2Factions.js%22%2C%5B%22signInAction%22%2C%22updateBooking%22%2C%22signOutAction%22%2C%22deleteBooking%22%2C%22createBooking%22%2C%22updateGuest%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/login/page": "rsc"
+      }
+    },
+    "28c606f9a73c7eb2070aa2dbf77d186f472f89a2": {
+      "workers": {
+        "app/login/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Frhychaw%2Fprojects%2Fultimate-react-course%2F21-the-wild-oasis-website%2Ffinal-6-after-server-actions%2Fapp%2F_lib%2Factions.js%22%2C%5B%22signInAction%22%2C%22updateBooking%22%2C%22signOutAction%22%2C%22deleteBooking%22%2C%22createBooking%22%2C%22updateGuest%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/login/page": "rsc"
+      }
+    },
+    "3fd03fcf75bac6cc07c1b8fb86c945515109603a": {
+      "workers": {
+        "app/login/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Frhychaw%2Fprojects%2Fultimate-react-course%2F21-the-wild-oasis-website%2Ffinal-6-after-server-actions%2Fapp%2F_lib%2Factions.js%22%2C%5B%22signInAction%22%2C%22updateBooking%22%2C%22signOutAction%22%2C%22deleteBooking%22%2C%22createBooking%22%2C%22updateGuest%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/login/page": "rsc"
+      }
+    },
+    "6a284103a3e17ef9f3ecf9362727d2d5dd954214": {
+      "workers": {
+        "app/login/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Frhychaw%2Fprojects%2Fultimate-react-course%2F21-the-wild-oasis-website%2Ffinal-6-after-server-actions%2Fapp%2F_lib%2Factions.js%22%2C%5B%22signInAction%22%2C%22updateBooking%22%2C%22signOutAction%22%2C%22deleteBooking%22%2C%22createBooking%22%2C%22updateGuest%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/login/page": "rsc"
+      }
+    },
+    "8f2f9794046ad6c522a799a91656bfe992a6c60a": {
+      "workers": {
+        "app/login/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Frhychaw%2Fprojects%2Fultimate-react-course%2F21-the-wild-oasis-website%2Ffinal-6-after-server-actions%2Fapp%2F_lib%2Factions.js%22%2C%5B%22signInAction%22%2C%22updateBooking%22%2C%22signOutAction%22%2C%22deleteBooking%22%2C%22createBooking%22%2C%22updateGuest%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/login/page": "rsc"
+      }
+    },
+    "ed0aa4625c71277ceeea7e922c1dce21c4b97124": {
+      "workers": {
+        "app/login/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Frhychaw%2Fprojects%2Fultimate-react-course%2F21-the-wild-oasis-website%2Ffinal-6-after-server-actions%2Fapp%2F_lib%2Factions.js%22%2C%5B%22signInAction%22%2C%22updateBooking%22%2C%22signOutAction%22%2C%22deleteBooking%22%2C%22createBooking%22%2C%22updateGuest%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/login/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "SphdaweuOWeGMf7Uuim/KbtFzUSS9ULaUfLtduVFEQA="
+}
